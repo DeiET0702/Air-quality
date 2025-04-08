@@ -24,7 +24,7 @@ jobs:
         pip install requests pandas
 
     - name: Run crawler
-      run: python crawl.py
+      run: python crawlGOV.py
 
     - name: Commit and push updated CSV
       run: |
