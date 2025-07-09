@@ -1,0 +1,374 @@
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 0.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.95  0.94  0.46 -0.35 NaN  NaN        -0.22      0.19     -0.03        0.01
+PM2.5        0.95   1.00  0.94  0.28 -0.34 NaN  NaN        -0.06      0.11     -0.03        0.07
+PM10         0.94   0.94  1.00  0.07   NaN NaN  NaN        -0.43      0.32     -0.09       -0.07
+CO           0.46   0.28  0.07  1.00  0.18 NaN  NaN        -0.61      0.39      0.02       -0.23
+NO2         -0.35  -0.34   NaN  0.18  1.00 NaN  NaN        -0.24     -0.17      0.09       -0.75
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.22  -0.06 -0.43 -0.61 -0.24 NaN  NaN         1.00     -0.82      0.07        0.41
+Humidity     0.19   0.11  0.32  0.39 -0.17 NaN  NaN        -0.82      1.00     -0.10       -0.41
+Pressure    -0.03  -0.03 -0.09  0.02  0.09 NaN  NaN         0.07     -0.10      1.00        0.01
+Wind Speed   0.01   0.07 -0.07 -0.23 -0.75 NaN  NaN         0.41     -0.41      0.01        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 1.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.95  0.98  0.52 -0.13 NaN  NaN        -0.43      0.46      0.01       -0.27
+PM2.5        0.95   1.00  0.98  0.37 -0.15 NaN  NaN        -0.31      0.40     -0.02       -0.19
+PM10         0.98   0.98  1.00 -0.06   NaN NaN  NaN        -0.33      0.00     -0.12       -0.46
+CO           0.52   0.37 -0.06  1.00 -0.11 NaN  NaN        -0.71      0.62     -0.00       -0.18
+NO2         -0.13  -0.15   NaN -0.11  1.00 NaN  NaN         0.03     -0.04      0.07       -0.69
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.43  -0.31 -0.33 -0.71  0.03 NaN  NaN         1.00     -0.67      0.11        0.40
+Humidity     0.46   0.40  0.00  0.62 -0.04 NaN  NaN        -0.67      1.00     -0.13       -0.47
+Pressure     0.01  -0.02 -0.12 -0.00  0.07 NaN  NaN         0.11     -0.13      1.00       -0.17
+Wind Speed  -0.27  -0.19 -0.46 -0.18 -0.69 NaN  NaN         0.40     -0.47     -0.17        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 2.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.98  0.89  0.55  0.09 NaN  NaN        -0.47      0.46      0.07       -0.25
+PM2.5        0.98   1.00  0.90  0.46  0.09 NaN  NaN        -0.40      0.41      0.07       -0.21
+PM10         0.89   0.90  1.00 -0.16   NaN NaN  NaN        -0.41      0.04     -0.02       -0.36
+CO           0.55   0.46 -0.16  1.00  0.08 NaN  NaN        -0.68      0.56     -0.04        0.01
+NO2          0.09   0.09   NaN  0.08  1.00 NaN  NaN         0.21     -0.10      0.30       -0.66
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.47  -0.40 -0.41 -0.68  0.21 NaN  NaN         1.00     -0.65      0.17        0.22
+Humidity     0.46   0.41  0.04  0.56 -0.10 NaN  NaN        -0.65      1.00     -0.28       -0.31
+Pressure     0.07   0.07 -0.02 -0.04  0.30 NaN  NaN         0.17     -0.28      1.00       -0.25
+Wind Speed  -0.25  -0.21 -0.36  0.01 -0.66 NaN  NaN         0.22     -0.31     -0.25        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 3.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.97  0.85  0.46  0.29 NaN  NaN        -0.38      0.42      0.19       -0.33
+PM2.5        0.97   1.00  0.85  0.36  0.32 NaN  NaN        -0.29      0.36      0.22       -0.28
+PM10         0.85   0.85  1.00 -0.21   NaN NaN  NaN        -0.51      0.21     -0.19       -0.41
+CO           0.46   0.36 -0.21  1.00 -0.02 NaN  NaN        -0.70      0.57     -0.02        0.03
+NO2          0.29   0.32   NaN -0.02  1.00 NaN  NaN         0.41     -0.30      0.24       -0.71
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.38  -0.29 -0.51 -0.70  0.41 NaN  NaN         1.00     -0.66      0.40        0.16
+Humidity     0.42   0.36  0.21  0.57 -0.30 NaN  NaN        -0.66      1.00     -0.31       -0.30
+Pressure     0.19   0.22 -0.19 -0.02  0.24 NaN  NaN         0.40     -0.31      1.00       -0.06
+Wind Speed  -0.33  -0.28 -0.41  0.03 -0.71 NaN  NaN         0.16     -0.30     -0.06        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 4.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.97  0.93  0.40  0.14 NaN  NaN        -0.36      0.39      0.14       -0.45
+PM2.5        0.97   1.00  0.91  0.32  0.20 NaN  NaN        -0.28      0.34      0.19       -0.45
+PM10         0.93   0.91  1.00 -0.17   NaN NaN  NaN        -0.56      0.29     -0.41       -0.43
+CO           0.40   0.32 -0.17  1.00 -0.14 NaN  NaN        -0.69      0.60     -0.04        0.00
+NO2          0.14   0.20   NaN -0.14  1.00 NaN  NaN         0.24     -0.34      0.16       -0.54
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.36  -0.28 -0.56 -0.69  0.24 NaN  NaN         1.00     -0.63      0.29        0.22
+Humidity     0.39   0.34  0.29  0.60 -0.34 NaN  NaN        -0.63      1.00     -0.33       -0.32
+Pressure     0.14   0.19 -0.41 -0.04  0.16 NaN  NaN         0.29     -0.33      1.00        0.09
+Wind Speed  -0.45  -0.45 -0.43  0.00 -0.54 NaN  NaN         0.22     -0.32      0.09        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 5.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.98  0.96  0.36  0.35 NaN  NaN        -0.41      0.38      0.02       -0.55
+PM2.5        0.98   1.00  0.94  0.29  0.41 NaN  NaN        -0.33      0.32      0.08       -0.50
+PM10         0.96   0.94  1.00 -0.06   NaN NaN  NaN        -0.66      0.31     -0.49       -0.72
+CO           0.36   0.29 -0.06  1.00 -0.06 NaN  NaN        -0.64      0.57     -0.17       -0.08
+NO2          0.35   0.41   NaN -0.06  1.00 NaN  NaN         0.44     -0.42      0.20       -0.57
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.41  -0.33 -0.66 -0.64  0.44 NaN  NaN         1.00     -0.57      0.36        0.41
+Humidity     0.38   0.32  0.31  0.57 -0.42 NaN  NaN        -0.57      1.00     -0.33       -0.24
+Pressure     0.02   0.08 -0.49 -0.17  0.20 NaN  NaN         0.36     -0.33      1.00        0.10
+Wind Speed  -0.55  -0.50 -0.72 -0.08 -0.57 NaN  NaN         0.41     -0.24      0.10        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 6.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.98  0.98  0.36  0.25 NaN  NaN        -0.37      0.32     -0.05       -0.43
+PM2.5        0.98   1.00  0.98  0.27  0.28 NaN  NaN        -0.28      0.25      0.01       -0.40
+PM10         0.98   0.98  1.00  0.23   NaN NaN  NaN        -0.46     -0.02     -0.58       -0.47
+CO           0.36   0.27  0.23  1.00 -0.33 NaN  NaN        -0.70      0.63     -0.13       -0.23
+NO2          0.25   0.28   NaN -0.33  1.00 NaN  NaN         0.42     -0.42      0.09       -0.52
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.37  -0.28 -0.46 -0.70  0.42 NaN  NaN         1.00     -0.55      0.43        0.24
+Humidity     0.32   0.25 -0.02  0.63 -0.42 NaN  NaN        -0.55      1.00     -0.28       -0.17
+Pressure    -0.05   0.01 -0.58 -0.13  0.09 NaN  NaN         0.43     -0.28      1.00        0.17
+Wind Speed  -0.43  -0.40 -0.47 -0.23 -0.52 NaN  NaN         0.24     -0.17      0.17        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 8.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.98  0.96  0.38  0.33 NaN  NaN        -0.04      0.09     -0.22       -0.46
+PM2.5        0.98   1.00  0.96  0.26  0.36 NaN  NaN         0.03      0.05     -0.16       -0.46
+PM10         0.96   0.96  1.00  0.49   NaN NaN  NaN         0.14     -0.18     -0.48       -0.57
+CO           0.38   0.26  0.49  1.00 -0.02 NaN  NaN        -0.27      0.31     -0.40        0.18
+NO2          0.33   0.36   NaN -0.02  1.00 NaN  NaN         0.29     -0.46     -0.12       -0.50
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.04   0.03  0.14 -0.27  0.29 NaN  NaN         1.00     -0.89      0.37       -0.25
+Humidity     0.09   0.05 -0.18  0.31 -0.46 NaN  NaN        -0.89      1.00     -0.31        0.28
+Pressure    -0.22  -0.16 -0.48 -0.40 -0.12 NaN  NaN         0.37     -0.31      1.00       -0.03
+Wind Speed  -0.46  -0.46 -0.57  0.18 -0.50 NaN  NaN        -0.25      0.28     -0.03        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 10.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.97  0.98  0.33  0.27 NaN  NaN        -0.24      0.26     -0.20        0.32
+PM2.5        0.97   1.00  0.98  0.20  0.19 NaN  NaN        -0.17      0.20     -0.10        0.28
+PM10         0.98   0.98  1.00  0.19   NaN NaN  NaN         0.52     -0.48     -0.54       -0.05
+CO           0.33   0.20  0.19  1.00  0.74 NaN  NaN        -0.30      0.20     -0.26        0.56
+NO2          0.27   0.19   NaN  0.74  1.00 NaN  NaN        -0.59      0.44     -0.33       -0.12
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.24  -0.17  0.52 -0.30 -0.59 NaN  NaN         1.00     -0.92      0.10       -0.29
+Humidity     0.26   0.20 -0.48  0.20  0.44 NaN  NaN        -0.92      1.00     -0.13        0.22
+Pressure    -0.20  -0.10 -0.54 -0.26 -0.33 NaN  NaN         0.10     -0.13      1.00        0.10
+Wind Speed   0.32   0.28 -0.05  0.56 -0.12 NaN  NaN        -0.29      0.22      0.10        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 11.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.98  0.98  0.38  0.17 NaN  NaN        -0.14      0.15     -0.12        0.47
+PM2.5        0.98   1.00  0.98  0.30  0.17 NaN  NaN        -0.11      0.13     -0.09        0.42
+PM10         0.98   0.98  1.00  0.03   NaN NaN  NaN         0.57     -0.50     -0.51        0.20
+CO           0.38   0.30  0.03  1.00  0.79 NaN  NaN        -0.35      0.25     -0.23        0.64
+NO2          0.17   0.17   NaN  0.79  1.00 NaN  NaN        -0.49      0.32     -0.41        0.12
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.14  -0.11  0.57 -0.35 -0.49 NaN  NaN         1.00     -0.93      0.12       -0.43
+Humidity     0.15   0.13 -0.50  0.25  0.32 NaN  NaN        -0.93      1.00     -0.10        0.33
+Pressure    -0.12  -0.09 -0.51 -0.23 -0.41 NaN  NaN         0.12     -0.10      1.00       -0.36
+Wind Speed   0.47   0.42  0.20  0.64  0.12 NaN  NaN        -0.43      0.33     -0.36        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 12.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.96  0.96  0.43  0.37 NaN  NaN        -0.21      0.28     -0.23        0.25
+PM2.5        0.96   1.00  0.95  0.34  0.36 NaN  NaN        -0.17      0.25     -0.17        0.16
+PM10         0.96   0.95  1.00 -0.09   NaN NaN  NaN         0.32     -0.31     -0.53       -0.03
+CO           0.43   0.34 -0.09  1.00  0.86 NaN  NaN        -0.37      0.45     -0.24        0.52
+NO2          0.37   0.36   NaN  0.86  1.00 NaN  NaN        -0.20      0.19     -0.31       -0.04
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.21  -0.17  0.32 -0.37 -0.20 NaN  NaN         1.00     -0.93      0.21       -0.27
+Humidity     0.28   0.25 -0.31  0.45  0.19 NaN  NaN        -0.93      1.00     -0.23        0.26
+Pressure    -0.23  -0.17 -0.53 -0.24 -0.31 NaN  NaN         0.21     -0.23      1.00       -0.41
+Wind Speed   0.25   0.16 -0.03  0.52 -0.04 NaN  NaN        -0.27      0.26     -0.41        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 13.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.89  0.97  0.46  0.55 NaN  NaN        -0.20      0.18     -0.09        0.27
+PM2.5        0.89   1.00  0.96  0.26  0.41 NaN  NaN        -0.21      0.15     -0.07        0.21
+PM10         0.97   0.96  1.00 -0.08   NaN NaN  NaN         0.03     -0.17     -0.19       -0.15
+CO           0.46   0.26 -0.08  1.00  0.84 NaN  NaN        -0.23      0.32      0.18        0.58
+NO2          0.55   0.41   NaN  0.84  1.00 NaN  NaN         0.01     -0.09     -0.00       -0.02
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.20  -0.21  0.03 -0.23  0.01 NaN  NaN         1.00     -0.89     -0.04       -0.29
+Humidity     0.18   0.15 -0.17  0.32 -0.09 NaN  NaN        -0.89      1.00      0.12        0.32
+Pressure    -0.09  -0.07 -0.19  0.18 -0.00 NaN  NaN        -0.04      0.12      1.00       -0.09
+Wind Speed   0.27   0.21 -0.15  0.58 -0.02 NaN  NaN        -0.29      0.32     -0.09        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 14.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.84  0.97  0.44  0.72 NaN  NaN        -0.28      0.19     -0.01       -0.12
+PM2.5        0.84   1.00  0.97  0.13  0.62 NaN  NaN        -0.13      0.03     -0.04       -0.28
+PM10         0.97   0.97  1.00 -0.06   NaN NaN  NaN        -0.26      0.10      0.08       -0.54
+CO           0.44   0.13 -0.06  1.00  0.71 NaN  NaN        -0.37      0.39      0.23        0.43
+NO2          0.72   0.62   NaN  0.71  1.00 NaN  NaN         0.19     -0.40      0.14       -0.29
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.28  -0.13 -0.26 -0.37  0.19 NaN  NaN         1.00     -0.92     -0.06       -0.18
+Humidity     0.19   0.03  0.10  0.39 -0.40 NaN  NaN        -0.92      1.00      0.05        0.12
+Pressure    -0.01  -0.04  0.08  0.23  0.14 NaN  NaN        -0.06      0.05      1.00       -0.19
+Wind Speed  -0.12  -0.28 -0.54  0.43 -0.29 NaN  NaN        -0.18      0.12     -0.19        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 15.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.82  0.92  0.42  0.68 NaN  NaN        -0.23      0.17     -0.05       -0.25
+PM2.5        0.82   1.00  0.91  0.06  0.35 NaN  NaN         0.02     -0.02     -0.13       -0.38
+PM10         0.92   0.91  1.00  0.01   NaN NaN  NaN        -0.02     -0.01     -0.01       -0.61
+CO           0.42   0.06  0.01  1.00  0.75 NaN  NaN        -0.47      0.47      0.29        0.33
+NO2          0.68   0.35   NaN  0.75  1.00 NaN  NaN         0.46     -0.42      0.07        0.04
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.23   0.02 -0.02 -0.47  0.46 NaN  NaN         1.00     -0.93      0.14        0.03
+Humidity     0.17  -0.02 -0.01  0.47 -0.42 NaN  NaN        -0.93      1.00     -0.08       -0.14
+Pressure    -0.05  -0.13 -0.01  0.29  0.07 NaN  NaN         0.14     -0.08      1.00       -0.04
+Wind Speed  -0.25  -0.38 -0.61  0.33  0.04 NaN  NaN         0.03     -0.14     -0.04        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 16.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.79  0.92  0.27  0.65 NaN  NaN        -0.27      0.13     -0.08       -0.20
+PM2.5        0.79   1.00  0.91 -0.11  0.29 NaN  NaN         0.03     -0.07     -0.05       -0.37
+PM10         0.92   0.91  1.00 -0.08   NaN NaN  NaN        -0.26      0.10     -0.08       -0.42
+CO           0.27  -0.11 -0.08  1.00  0.72 NaN  NaN        -0.51      0.40      0.36        0.17
+NO2          0.65   0.29   NaN  0.72  1.00 NaN  NaN         0.05     -0.08      0.15       -0.27
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.27   0.03 -0.26 -0.51  0.05 NaN  NaN         1.00     -0.92     -0.05        0.23
+Humidity     0.13  -0.07  0.10  0.40 -0.08 NaN  NaN        -0.92      1.00      0.04       -0.30
+Pressure    -0.08  -0.05 -0.08  0.36  0.15 NaN  NaN        -0.05      0.04      1.00       -0.18
+Wind Speed  -0.20  -0.37 -0.42  0.17 -0.27 NaN  NaN         0.23     -0.30     -0.18        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 17.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.74  0.95  0.40  0.60 NaN  NaN        -0.25      0.30      0.01       -0.21
+PM2.5        0.74   1.00  0.94 -0.12  0.10 NaN  NaN         0.14      0.04      0.03       -0.27
+PM10         0.95   0.94  1.00 -0.02   NaN NaN  NaN        -0.10      0.18     -0.08       -0.20
+CO           0.40  -0.12 -0.02  1.00  0.72 NaN  NaN        -0.45      0.37      0.31        0.10
+NO2          0.60   0.10   NaN  0.72  1.00 NaN  NaN        -0.36      0.48      0.33       -0.49
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.25   0.14 -0.10 -0.45 -0.36 NaN  NaN         1.00     -0.87     -0.21        0.33
+Humidity     0.30   0.04  0.18  0.37  0.48 NaN  NaN        -0.87      1.00      0.14       -0.60
+Pressure     0.01   0.03 -0.08  0.31  0.33 NaN  NaN        -0.21      0.14      1.00       -0.21
+Wind Speed  -0.21  -0.27 -0.20  0.10 -0.49 NaN  NaN         0.33     -0.60     -0.21        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 18.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.69  0.91  0.45  0.85 NaN  NaN        -0.39      0.52     -0.14       -0.10
+PM2.5        0.69   1.00  0.96 -0.13  0.17 NaN  NaN         0.02      0.20      0.11       -0.12
+PM10         0.91   0.96  1.00 -0.05   NaN NaN  NaN        -0.47      0.60     -0.05        0.08
+CO           0.45  -0.13 -0.05  1.00  0.85 NaN  NaN        -0.49      0.37     -0.03       -0.11
+NO2          0.85   0.17   NaN  0.85  1.00 NaN  NaN        -0.18      0.53     -0.01       -0.13
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.39   0.02 -0.47 -0.49 -0.18 NaN  NaN         1.00     -0.76      0.15        0.32
+Humidity     0.52   0.20  0.60  0.37  0.53 NaN  NaN        -0.76      1.00     -0.22       -0.39
+Pressure    -0.14   0.11 -0.05 -0.03 -0.01 NaN  NaN         0.15     -0.22      1.00       -0.02
+Wind Speed  -0.10  -0.12  0.08 -0.11 -0.13 NaN  NaN         0.32     -0.39     -0.02        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 19.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.74  0.95  0.48  0.81 NaN  NaN        -0.27      0.27      0.00       -0.28
+PM2.5        0.74   1.00  0.98 -0.04  0.38 NaN  NaN        -0.05      0.18      0.06       -0.10
+PM10         0.95   0.98  1.00 -0.03   NaN NaN  NaN        -0.35      0.34     -0.05       -0.00
+CO           0.48  -0.04 -0.03  1.00  0.80 NaN  NaN        -0.28      0.23      0.39       -0.14
+NO2          0.81   0.38   NaN  0.80  1.00 NaN  NaN         0.17     -0.00     -0.16       -0.72
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.27  -0.05 -0.35 -0.28  0.17 NaN  NaN         1.00     -0.93     -0.12       -0.22
+Humidity     0.27   0.18  0.34  0.23 -0.00 NaN  NaN        -0.93      1.00      0.08        0.18
+Pressure     0.00   0.06 -0.05  0.39 -0.16 NaN  NaN        -0.12      0.08      1.00        0.26
+Wind Speed  -0.28  -0.10 -0.00 -0.14 -0.72 NaN  NaN        -0.22      0.18      0.26        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 20.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.83  0.97  0.52  0.73 NaN  NaN        -0.34      0.38     -0.04       -0.08
+PM2.5        0.83   1.00  0.98  0.20  0.46 NaN  NaN        -0.11      0.27      0.21       -0.08
+PM10         0.97   0.98  1.00  0.13   NaN NaN  NaN        -0.53      0.52      0.01        0.05
+CO           0.52   0.20  0.13  1.00  0.78 NaN  NaN        -0.39      0.32     -0.00       -0.04
+NO2          0.73   0.46   NaN  0.78  1.00 NaN  NaN         0.06      0.04     -0.04       -0.34
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.34  -0.11 -0.53 -0.39  0.06 NaN  NaN         1.00     -0.89      0.04        0.26
+Humidity     0.38   0.27  0.52  0.32  0.04 NaN  NaN        -0.89      1.00     -0.06       -0.34
+Pressure    -0.04   0.21  0.01 -0.00 -0.04 NaN  NaN         0.04     -0.06      1.00        0.15
+Wind Speed  -0.08  -0.08  0.05 -0.04 -0.34 NaN  NaN         0.26     -0.34      0.15        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 21.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.86  0.96  0.61  0.11 NaN  NaN        -0.38      0.29     -0.06        0.10
+PM2.5        0.86   1.00  0.97  0.26  0.13 NaN  NaN        -0.04     -0.03      0.18        0.15
+PM10         0.96   0.97  1.00  0.05   NaN NaN  NaN        -0.60      0.56     -0.02       -0.21
+CO           0.61   0.26  0.05  1.00  0.56 NaN  NaN        -0.50      0.35     -0.01        0.07
+NO2          0.11   0.13   NaN  0.56  1.00 NaN  NaN        -0.39      0.34      0.08       -0.57
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.38  -0.04 -0.60 -0.50 -0.39 NaN  NaN         1.00     -0.93      0.12        0.40
+Humidity     0.29  -0.03  0.56  0.35  0.34 NaN  NaN        -0.93      1.00     -0.09       -0.45
+Pressure    -0.06   0.18 -0.02 -0.01  0.08 NaN  NaN         0.12     -0.09      1.00        0.19
+Wind Speed   0.10   0.15 -0.21  0.07 -0.57 NaN  NaN         0.40     -0.45      0.19        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 22.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.90  0.97  0.60 -0.07 NaN  NaN        -0.47      0.35     -0.14        0.17
+PM2.5        0.90   1.00  0.96  0.33 -0.04 NaN  NaN        -0.12     -0.01     -0.01        0.20
+PM10         0.97   0.96  1.00  0.08  1.00 NaN  NaN        -0.80      0.52      0.01       -0.16
+CO           0.60   0.33  0.08  1.00  0.21 NaN  NaN        -0.63      0.61     -0.12        0.06
+NO2         -0.07  -0.04  1.00  0.21  1.00 NaN  NaN        -0.48      0.25     -0.14       -0.54
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.47  -0.12 -0.80 -0.63 -0.48 NaN  NaN         1.00     -0.85      0.20        0.17
+Humidity     0.35  -0.01  0.52  0.61  0.25 NaN  NaN        -0.85      1.00     -0.36       -0.14
+Pressure    -0.14  -0.01  0.01 -0.12 -0.14 NaN  NaN         0.20     -0.36      1.00        0.13
+Wind Speed   0.17   0.20 -0.16  0.06 -0.54 NaN  NaN         0.17     -0.14      0.13        1.00
+
+====================================================================================================
+
+📍 Ma trận tương quan - Trạm 'HCM: Khu Liên cơ quan Bộ Tài Nguyên và Môi Trường - số 20 Đ. Lý Chính Thắng (KK)' - Giờ 23.0:00
+
+              AQI  PM2.5  PM10    CO   NO2  O3  SO2  Temperature  Humidity  Pressure  Wind Speed
+AQI          1.00   0.92  0.94  0.50 -0.15 NaN  NaN        -0.40      0.36     -0.01        0.18
+PM2.5        0.92   1.00  0.89  0.28 -0.12 NaN  NaN        -0.11      0.08      0.05        0.20
+PM10         0.94   0.89  1.00  0.22  1.00 NaN  NaN        -0.75      0.43      0.19       -0.21
+CO           0.50   0.28  0.22  1.00  0.29 NaN  NaN        -0.71      0.64     -0.10       -0.02
+NO2         -0.15  -0.12  1.00  0.29  1.00 NaN  NaN        -0.29     -0.02     -0.31       -0.68
+O3            NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+SO2           NaN    NaN   NaN   NaN   NaN NaN  NaN          NaN       NaN       NaN         NaN
+Temperature -0.40  -0.11 -0.75 -0.71 -0.29 NaN  NaN         1.00     -0.81      0.03        0.13
+Humidity     0.36   0.08  0.43  0.64 -0.02 NaN  NaN        -0.81      1.00     -0.11       -0.06
+Pressure    -0.01   0.05  0.19 -0.10 -0.31 NaN  NaN         0.03     -0.11      1.00        0.20
+Wind Speed   0.18   0.20 -0.21 -0.02 -0.68 NaN  NaN         0.13     -0.06      0.20        1.00
+
+====================================================================================================
